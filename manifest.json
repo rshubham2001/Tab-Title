@@ -1,0 +1,17 @@
+{
+    "name":"Tab Title",
+    "description":"An extention to get title of current tab.",
+    "version":"1.0",
+    "manifest_version":3,
+    "permissions":[
+        "tabs"
+    ],
+    "action":{
+        "default_popup":"popup.html"
+    },
+    "icons":{
+        "16":"/Images/icon_16.png",
+        "32":"/Images/icon_32.png",
+        "64":"/Images/icon_64.png"
+    }
+}
